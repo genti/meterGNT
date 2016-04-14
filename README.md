@@ -1,10 +1,10 @@
 # meterGNT
-# v0.1 14/04/2016
+# v0.1 14/04/2016 
+- creato repository
+- creato pooler e parser
 
-
-REQUISITI
-
-https://pypi.python.org/pypi/sdm-collector
-pip install sdm-collector
-
-
+- creare storicizzazione letture
+- creare frontend
+- creare interfaccia di configurazione
+- implementare fasce orarie x elettricità
+- loggare altri sensori
